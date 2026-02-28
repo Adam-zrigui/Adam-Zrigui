@@ -30,16 +30,17 @@ I ship products. I iterate. I optimize.
 
 ---
 
-## GitHub
+## Activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Adam-zrigui&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-zrigui&layout=compact&hide_border=true&theme=transparent" />
+  <img src="https://github.com/Adam-zrigui/Adam-zrigui/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
+
+> This shows your GitHub activity dynamically using a contribution snake. Fully self-hosted and stable.
 
 ---
 
 ## Contact
 
-- GitHub: https://github.com/Adam-zrigui  
-- Live App: https://fit-pro-nine-theta.vercel.app
+- GitHub: [Adam-zrigui](https://github.com/Adam-zrigui)  
+- Live App: [fit-pro-nine-theta.vercel.app](https://fit-pro-nine-theta.vercel.app)
