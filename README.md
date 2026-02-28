@@ -30,16 +30,6 @@ I ship products. I iterate. I optimize.
 
 ---
 
-## Activity
-
-<p align="center">
-  <img src="https://github.com/Adam-zrigui/Adam-zrigui/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-> This shows your GitHub activity dynamically using a contribution snake. Fully self-hosted and stable.
-
----
-
 ## Contact
 
 - GitHub: [Adam-zrigui](https://github.com/Adam-zrigui)  
